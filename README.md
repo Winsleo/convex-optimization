@@ -4,20 +4,16 @@
 凸优化各种算法的matlab实现
 
 #### 软件架构
-软件架构说明
+
 optimization文件中的main.slx为主测试文件，其余为各算法的函数文件
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  克隆本仓库
+2.  用matlab(版本最好大于2019b)打开 optimization文件
+3.  打开其中的main.slx
+4.  运行程序，得到结果
 
 #### 参与贡献
 
